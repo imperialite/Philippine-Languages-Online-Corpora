@@ -8,6 +8,4 @@ For questions, you may reach the curator at:
 Joseph Marvin Imperial
 jrimperial@national-u.edu.ph
 
-Link: http://bit.ly/1MpcFoT
-
 All resources are distributed under LGPL.
