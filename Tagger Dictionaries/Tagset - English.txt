@@ -1,0 +1,45 @@
+CC    Coordinating conjunction
+CD    Cardinal number
+DT    Determiner
+EX    Existential there
+FW    Foreign word
+IN    Preposition/subordinate conjunction
+JJ    Adjective
+JJR   Adjective, comparative
+JJS   Adjective, superlative
+LS    List item marker
+MD    Modal
+NN    Noun, singular or mass
+NN:U    Mass noun		#new tag - deviation from Penn
+NN:UN    Noun used as mass	#new tag - deviation from Penn
+NNP   Proper noun, singular
+NNPS  Proper noun, plural
+NNS   Noun, plural
+PDT   Predeterminer
+POS   Possessive ending
+PRP   Personal pronoun
+PRP$  Possessive pronoun
+RB    Adverb
+RBR   Adverb, comparative
+RBS   Adverb, superlative
+RP    Particle
+SYM   Symbol
+TO    to
+UH    Interjection
+VB    Verb, base form
+VBD   Verb, past tense
+VBG   Verb, gerund/present participle
+VBN   Verb, past participle
+VBP   Verb, non-3rd ps. sing. present
+VBZ   Verb, 3rd ps. sing. present
+WDT   wh-determiner
+WP    wh-pronoun
+WP$   Possessive wh-pronoun
+WRB   wh-adverb
+``    Left open double quote
+,     Comma
+''    Right close double quote
+.     Sentence-final punctuation
+:     Colon, semi-colon
+$     Dollar sign
+#     Pound sign
