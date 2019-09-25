@@ -1,0 +1,1 @@
+Imperial, J. M., Orosco, J., Mazo, S. M., & Maceda, L. (2019). Sentiment Analysis of Typhoon Related Tweets using Standard and Bidirectional Recurrent Neural Networks. arXiv preprint arXiv:1908.01765.
