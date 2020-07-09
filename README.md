@@ -5,7 +5,8 @@ All resources are distributed under LGPL and freely distributed.  Included in ea
 
 For questions, you may reach the curator at:
 
-Joseph Marvin Imperial
+Joseph Marvin Imperial <br\>
+Faculty Member
 jrimperial@national-u.edu.ph
 
 All resources are distributed under LGPL.
