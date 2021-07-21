@@ -1,5 +1,1 @@
-Imperial, Joseph. “'Yorme, Yorme': Modeling Themes from COVID-19 Concerns and Public Reports Aired through Manila...” Medium. Medium, June 1, 2020. https://medium.com/@josephimperial/yorme-yorme-modeling-themes-from-covid-19-concerns-and-public-reports-aired-through-manila-d657be19e65.
-
-or 
-
-@misc{imperial_2020, title={'Yorme, Yorme': Modeling themes from COVID-19 concerns and public reports aired through Manila...}, url={https://medium.com/@josephimperial/yorme-yorme-modeling-themes-from-covid-19-concerns-and-public-reports-aired-through-manila-d657be19e65}, journal={Medium}, publisher={Medium}, author={Imperial, Joseph}, year={2020}, month={Apr}}
+Imperial, J. M. R. (2020, April 9). ‘Yorme, Yorme’: Modeling themes from Covid-19 concerns and public reports aired through Manila City government Twitter accounts. (thesis). Medium. Retrieved from https://medium.com/@josephimperial/yorme-yorme-modeling-themes-from-covid-19-concerns-and-public-reports-aired-through-manila-d657be19e65 
